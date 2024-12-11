@@ -13,7 +13,12 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
   - AI-based plagiarism detection systems using BERT (Bidirectional Encoding ) language model.
   - Molecular dynamics simulations and protein structure generation.
   - Predictive modeling for EV charging metrics.
-- ✨ **Hobbies**: Coding, solving algorithmic problems, and participating in hackathons.
+- ✨ **Hobbies**: Coding, solving algorithmic problems, and participating in hackathons, solving leetcode problems.
+  
+---
+
+- 🧮 [LeetCode Profile](https://leetcode.com/Mathan_09)
+  ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Mathan_09/) 
 
 ---
 
@@ -79,8 +84,6 @@ Thank you for stopping by! Feel free to explore my repositories and drop me a me
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
 - 📧 Email: [youremail@example.com](mailto:youremail@example.com)
 - 🌍 [Portfolio Website](https://yourportfolio.com) *(Coming soon!)*
-- 🧮 [LeetCode Profile](https://leetcode.com/yourleetcodeprofile)
-  ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/yourleetcodeprofile/)
 - 📸 [Instagram](https://www.instagram.com/yourinstagramhandle)
 
 ---
