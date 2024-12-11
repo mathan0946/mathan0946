@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
 ---
 
 - 🧮 [LeetCode Profile](https://leetcode.com/Mathan_09)
-  ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/Mathan_09/) 
+![LeetCode Stats](https://leetcard.jacoblin.cool/Mathan_09?theme=dark&font=JetBrains%20Mono)
 
 ---
 
@@ -69,7 +69,6 @@ A Flask-based web app to detect plagiarism in user-uploaded files or a database.
 A machine learning project to predict:
 - Session Duration: How long an EV charging session will take.
 - Energy Consumption: The amount of energy required for each session
-A machine larning based solution for predicting Session duration and energy consumption in EVs.
 
 [Repository Link](https://github.com/yourusername/EV_Session_Duration_Prediction)
 
