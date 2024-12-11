@@ -71,6 +71,14 @@ A Flask-based web app to detect plagiarism in user-uploaded files or a database.
 
 [Repository Link](https://github.com/yourusername/plagiarism_checker)
 
+### 🔋 EV Charging Metrics Prediction
+A machine learning project to predict:
+- Session Duration: How long an EV charging session will take.
+- Energy Consumption: The amount of energy required for each session
+A machine larning based solution for predicting Session duration and energy consumption in EVs.
+
+[Repository Link](https://github.com/yourusername/EV_Session_Duration_Prediction)
+
 ---
 
 Thank you for stopping by! Feel free to explore my repositories and drop me a message if you’d like to collaborate. 🚀
