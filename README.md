@@ -32,7 +32,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
   - **BERT (Bidirectional Encoder Representations from Transformers)**: Used for natural language understanding and text embeddings.
   - **ADMM (Alternating Direction Method of Multipliers)**: Applied in sparse linear regression and optimization problems.
   - **PCA (Principal Component Analysis)**: Used for dimensionality reduction.
-  - **t-SNE (t-Distributed Stochastic Neighbor Embedding)**: Applied for high-dimensional data visualization.
   - **Transformers**: Focused on deep learning architectures for sequential data processing, including NLP tasks.
   - **LLMs (Large Language Models)**: Leveraging advanced models like GPT and BERT for generating and understanding complex textual data.
 - **Bioinformatics**: Molecular dynamics, 3D protein modeling.
