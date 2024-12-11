@@ -34,7 +34,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
   - **PCA (Principal Component Analysis)**: Used for dimensionality reduction.
   - **Transformers**: Focused on deep learning architectures for sequential data processing, including NLP tasks.
   - **LLMs (Large Language Models)**: Leveraging advanced models like GPT and BERT for generating and understanding complex textual data.
-- **Bioinformatics**: Molecular dynamics, 3D protein modeling.
 - **Web Dev**: HTML, CSS, JavaScript (with transitions and animations!).
 
 ---
