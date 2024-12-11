@@ -81,9 +81,9 @@ Thank you for stopping by! Feel free to explore my repositories and drop me a me
 
 ## 🌐 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mathana-guru-sabareesan-s-46265528a/)
+- 📧 Email: [mathanaguru18@gmail.com](mailto:mathanaguru18@gmail.com)
 - 🌍 [Portfolio Website](https://yourportfolio.com) *(Coming soon!)*
-- 📸 [Instagram](https://www.instagram.com/yourinstagramhandle)
+- 📸 [Instagram](https://www.instagram.com/_mathan_33_/profilecard/?igsh=c3J6MmUwNnA5enY3)
 
 ---
