@@ -40,17 +40,6 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
 
 ---
 
-## 🌐 Connect With Me
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
-- 🌍 [Portfolio Website](https://yourportfolio.com) *(Coming soon!)*
-- 🧮 [LeetCode Profile](https://leetcode.com/yourleetcodeprofile)
-  ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/yourleetcodeprofile/)
-- 📸 [Instagram](https://www.instagram.com/yourinstagramhandle)
-
----
-
 ## 📌 Highlighted Projects
 
 ### 🔒 Payment Application
@@ -82,3 +71,16 @@ A machine larning based solution for predicting Session duration and energy cons
 ---
 
 Thank you for stopping by! Feel free to explore my repositories and drop me a message if you’d like to collaborate. 🚀
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 🌍 [Portfolio Website](https://yourportfolio.com) *(Coming soon!)*
+- 🧮 [LeetCode Profile](https://leetcode.com/yourleetcodeprofile)
+  ![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/yourleetcodeprofile/)
+- 📸 [Instagram](https://www.instagram.com/yourinstagramhandle)
+
+---
