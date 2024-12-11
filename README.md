@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Python, JavaScript, C, SQL,C++,Java.
+- **Languages**: Python, JavaScript, C, SQL, C++, Java.
 - **Frameworks**: Flask, Node.js, Gradio.
 - **Databases**: MySQL, MongoDB.
 - **AI/ML**: 
