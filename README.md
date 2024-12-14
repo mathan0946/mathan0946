@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
 - 🎓 **Education**: Pursuing CSE with a specialization in Artificial Intelligence at Amrita University.
 - 💻 **Special Interests**: Web development, AI/ML, Generative AI, Large Language Models (LLMs), computer networking, and bioinformatics.
 - 🚀 **Projects**: I worked on practical, solution-oriented projects such as:
-  - Payment applications with secure database integration.
   - AI-based plagiarism detection systems using BERT (Bidirectional Encoding ) language model.
   - Molecular dynamics simulations and protein structure generation.
+  - Image filtering applications for noise reduction in BMP files.
   - Predictive modeling for EV charging metrics.
 - ✨ **Hobbies**: Coding, solving algorithmic problems, and participating in hackathons, solving leetcode problems.
   
@@ -46,16 +46,14 @@ Welcome to my GitHub profile! I'm a passionate Computer Science and Engineering 
 
 ## 📌 Highlighted Projects
 
-### 🔒 Payment Application
-A secure web app that facilitates payments between users with:
-- Integrated Stripe API for test transactions.
-- Secure database connections.
-- Real-time transaction tracking.
-
-[Repository Link](https://github.com/yourusername/payment_app)
-
-### 🧬 IDP-GAN
-A cutting-edge bioinformatics tool to generate 3D structures of intrinsically disordered proteins.
+### 🖼️ Image Filter Application
+An image-processing application developed in C that performs noise reduction on BMP files.
+- Implements Mean and Median filtering techniques.
+- Outputs:
+  - Mean Filtered Image
+  - Median Filtered Image
+  - Combined Mean + Median Filtered Image.
+- Demonstrates basic image manipulation using raw BMP pixel data.
 
 [Repository Link](https://github.com/yourusername/idpgan)
 
