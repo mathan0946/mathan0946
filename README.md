@@ -55,19 +55,23 @@ An image-processing application developed in C that performs noise reduction on 
   - Combined Mean + Median Filtered Image.
 - Demonstrates basic image manipulation using raw BMP pixel data.
 
-[Repository Link](https://github.com/yourusername/idpgan)
+[Repository Link](https://github.com/mathan0946/Image-Filter-Application-using-C-language)
 
 ### 📄 AI-Powered Plagiarism Checker
-A Flask-based web app to detect plagiarism in user-uploaded files or a database.
+A Flask-based web app to detect plagiarism in user-uploaded texts or a database, with key features including:
 
-[Repository Link](https://github.com/yourusername/plagiarism_checker)
+- **BERT Integration**: Employs the Bidirectional Encoder Representations from Transformers (BERT) model for robust semantic similarity analysis and natural language understanding across various textual inputs.
+- **Dynamic Reporting**: Generates result showing plagiarism percentage, matched content, and sources.
+   
+
+[Repository Link](https://github.com/mathan0946/Plagiarism_Detector_Using_BERT)
 
 ### 🔋 EV Charging Metrics Prediction
 A machine learning project to predict:
 - Session Duration: How long an EV charging session will take.
 - Energy Consumption: The amount of energy required for each session
 
-[Repository Link](https://github.com/yourusername/EV_Session_Duration_Prediction)
+[Repository Link](https://github.com/mathan0946/EV-Charging-Session-Duration-Prediction)
 
 ---
 
